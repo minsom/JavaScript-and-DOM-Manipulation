@@ -11,3 +11,5 @@ page published at https://minsom.github.io/JavaScript-and-DOM-Manipulation/
   3. `state`->input
   4. `country`->input
   5. `shape`->select(dropdown)
+  
+  ![Index.html Screenshot_1](https://github.com/minsom/JavaScript-and-DOM-Manipulation/blob/master/static/images/screencapture.PNG)
